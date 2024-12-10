@@ -1,5 +1,0 @@
-pyscf
-py3Dmol
-rdkit
-jupyter
-matplotlib
